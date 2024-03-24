@@ -1,4 +1,4 @@
-Pythonic Pursuit: A C Project in Gaming
+CodeSnake: A C Project in Gaming
 
 Setup Function:
 Initializes game environment parameters such as width, height, and gameover status.
